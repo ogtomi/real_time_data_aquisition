@@ -1,0 +1,3 @@
+[console_scripts]
+stm32loader = stm32loader.__main__:main
+
